@@ -5,7 +5,7 @@ H04X - Discord raid tool to nuke servers written in Python
 </p>
 <h1 align="center">[Discord] - H04X V1.0</h1>
 <p align="center">
-  <a href="https://github.com/AstraaDev/Discord-All-Tools-In-One/blob/main/LICENSE">
+  <a href="https://github.com/CatsSomeCat/Discord-H04X/blob/license/License">
     <img src="https://img.shields.io/badge/License-MIT-important">
   </a>
   <a href="https://www.python.org">
