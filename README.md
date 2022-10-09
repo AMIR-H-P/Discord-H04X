@@ -36,7 +36,7 @@ By using H04X, you agree to be responsible and liable for any consequences
 - [x] - [ Delete Roles ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Deleting All Guild Roles
 - [x] - [ Create Webhook ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Creating Webhook In All Channel
 - [x] - [ Delete Webhook ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Deleting All Guild Webhook
-- [x] - [ Webhook Spammer ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Spamming With Givin Webhook With Specified Message
+- [x] - [ Webhook Spammer ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Spamming With Specified Message
       
 ## Installation
 `     
