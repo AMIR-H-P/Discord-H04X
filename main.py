@@ -175,7 +175,7 @@ class nuker():
 [06] Delete Roles      | [16] Change Guild Name & Icon    |
 [07] Create Webhooks   | [17] Create Servers              |
 [08] Delete Webhooks   | [18] Delete Emojis               |
-[09] Webhook Spamer    | [19] Account Disabler            |
+[09] Webhook Spammer   | [19] Account Disabler            |
 [10] Fake Members      | [20] Spammr                      |""")                  
             try:
                 user_input = str(input("\n[Choose] : "))
