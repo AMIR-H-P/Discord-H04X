@@ -20,6 +20,9 @@ Created By CatsSomeCat#3869 & '狼 AMIR ᴼᴷᴬᴹᴵ#6762
     <img src="https://img.shields.io/github/stars/CatSomeCat/Discord-H04X?logo=Stars&style=for-the-badge">
   </a>
 
+## Preview
+![image](https://user-images.githubusercontent.com/78264512/194783927-9fed66d1-3ad6-4ebf-8375-0c0e925f1045.png)
+
 ## Disclaimer
 This project is made for good and fun purposes only.
 By using H04X, you agree to be responsible and liable for any consequences
