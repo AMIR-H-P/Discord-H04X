@@ -1,0 +1,5 @@
+colorama
+discord_webhook
+rich
+discord.py-self
+rand_string
