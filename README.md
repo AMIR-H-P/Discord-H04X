@@ -23,5 +23,7 @@ By using H04X, you agree to be responsible and liable for any consequences
 - [ ] - [Selft Bot](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Turn your discord account into a self bot.
  
 ## Installation
+      
 $ git clone https://github.com/CatsSomeCat/Discord-H04X.git
+      
 $ python -m pip install -r requirements.txt
