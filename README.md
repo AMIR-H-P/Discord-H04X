@@ -28,15 +28,28 @@ This project is made for good and fun purposes only.
 By using H04X, you agree to be responsible and liable for any consequences
 
 ## Features
-- [x] - [ Create Channels ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Creating Channel With Specified Amount
-- [x] - [ Delete Channels ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Deleting All Guild Channel
-- [x] - [ Ban All ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Banning All Guild Members
-- [x] - [ Kick All ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Kicking All Guild Members
-- [x] - [ Create Roles ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Creating Roles With Specified Amount
-- [x] - [ Delete Roles ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Deleting All Guild Roles
-- [x] - [ Create Webhook ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Creating Webhook In All Channel
-- [x] - [ Delete Webhook ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Deleting All Guild Webhook
-- [x] - [ Webhook Spammer ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Spamming With Specified Message
+- [x] - [ Create Channels ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Creates Channel With Specified Amount
+- [x] - [ Delete Channels ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Delets All Guild Channel
+- [x] - [ Ban All ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Bans All Guild Members
+- [x] - [ Kick All ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Kicks All Guild Members
+- [x] - [ Create Roles ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Creates Roles With Specified Amount
+- [x] - [ Delete Roles ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Delets All Guild Roles
+- [x] - [ Create Webhook ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Creates Webhook In All Channel
+- [x] - [ Delete Webhook ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Delets All Guild Webhook
+- [x] - [ Webhook Spammer ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Spams With Specified Message
+- [x] - [ Fake Members ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Invites Fake Members
+- [x] - [ Block All ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Blocks All Friends
+- [x] - [ Unfriend All ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Unfriending All
+- [x] - [ Nickname All ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Changes All Guild Members Nickname
+- [x] - [ Invisible ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Makes Your Name Invisible
+- [x] - [ Administrator All ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Giving Everyone In Guild Administrator Permission
+- [x] - [ Change Guild Name & Icon ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Changes Guild Name & Icon
+- [x] - [ Create Servers ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Creates Guild With Specified Amount
+- [x] - [ Delete Emoji ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Delets All Guild Emojis
+- [x] - [ Account Disabler ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Deactivates Discord Account
+- [x] - [ Spamming ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Spams In Specified Guild
+- [x] - [ Token Generator ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Generates Token
+- [x] - [ Nitro Generator ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Generates Nitro
       
 ## Installation
 `     
