@@ -28,7 +28,7 @@ This project is made for good and fun purposes only.
 By using H04X, you agree to be responsible and liable for any consequences
 
 ## Features
-- [ ] - [Selft Bot](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Turn your discord account into a self bot.
+- [x] - [Create Channels ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Creating Channel With Specified Amount
  
 ## Installation
 `     
