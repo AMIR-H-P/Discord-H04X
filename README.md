@@ -28,9 +28,15 @@ This project is made for good and fun purposes only.
 By using H04X, you agree to be responsible and liable for any consequences
 
 ## Features
-`
-- [x] - [Create Channels ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Creating Channel With Specified Amount
-`
+- [x] - [ Create Channels ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Creating Channel With Specified Amount
+- [x] - [ Delete Channels ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Deleting All Guild Channel
+- [x] - [ Ban All ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Banning All Guild Members
+- [x] - [ Kick All ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Kicking All Guild Members
+- [x] - [ Create Roles ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Creating Roles With Specified Amount
+- [x] - [ Delete Roles ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Deleting All Guild Roles
+- [x] - [ Create Webhook ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Creating Webhook In All Channel
+- [x] - [ Delete Webhook ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Deleting All Guild Webhook
+- [x] - [ Webhook Spammer ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Spamming With Givin Webhook With Specified Message
       
 ## Installation
 `     
