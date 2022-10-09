@@ -24,6 +24,8 @@ By using H04X, you agree to be responsible and liable for any consequences
  
 ## Installation
 `     
-$ git clone https://github.com/CatsSomeCat/Discord-H04X.git 
+$ git clone https://github.com/CatsSomeCat/Discord-H04X.git
+`
+`
 $ python -m pip install -r requirements.txt
 `
