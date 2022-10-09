@@ -1,6 +1,8 @@
 # Discord-H04X
 <p align="center">
-H04X - Discord raid tool to nuke servers written in Python     
+H04X - Discord raid tool to nuke servers written in Python
+</p>
+<p align="center">
 Created By CatsSomeCat#3869 & '狼 AMIR ᴼᴷᴬᴹᴵ#6762
 </p>
 <p align="center">
