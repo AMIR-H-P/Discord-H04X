@@ -28,8 +28,10 @@ This project is made for good and fun purposes only.
 By using H04X, you agree to be responsible and liable for any consequences
 
 ## Features
+`
 - [x] - [Create Channels ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Creating Channel With Specified Amount
- 
+`
+      
 ## Installation
 `     
 $ git clone https://github.com/CatsSomeCat/Discord-H04X.git
