@@ -31,5 +31,5 @@ $ git clone https://github.com/CatsSomeCat/Discord-H04X.git
 $ python -m pip install -r requirements.txt
 `
 ## Additional Informations
-- If you have a problem [CLICK HERE](https://discord.gg/GDAqqt9B) to join our discord server!.
+- If You Have A Problem [CLICK HERE](https://discord.gg/GDAqqt9B) To Join Our Discord Server
 - Contact me on Discord [CatsSomeCat#3869]
