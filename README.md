@@ -17,7 +17,7 @@ Created By CatsSomeCat#3869 & '狼 AMIR ᴼᴷᴬᴹᴵ#6762
     <img src="https://img.shields.io/github/repo-size/CatsSomeCat/Discord-H04X?label=Repository%20Size">
   </a>
     <p align="center"> <a href="https://github.com/CatsSomeCat/Discord-H04X">
-    <img src="https://img.shields.io/github/stars/CatSomeCat/Discord-H04X?logo=Stars&style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/CatsSomeCat/Discord-H04X?style=for-the-badge">
   </a>
 
 ## Preview
