@@ -493,7 +493,7 @@ class nuker():
                     try:
                         url = str(input("[Image URL] : "))
                         if url == '':
-                            url = 'https://cdn.discordapp.com/attachments/970702845659725864/1017137709929738371/1662574911093.jpg'
+                            url = 'https://cdn.discordapp.com/attachments/942164249743069214/1029011117718122526/skeleton-dance.png'
                         image_link = requests.get(url, stream=True)
                         if image_link.status_code == 200:
                             Print("[Downloading] ...") 
