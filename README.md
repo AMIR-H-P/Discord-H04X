@@ -8,7 +8,7 @@ Created By CatsSomeCat#3869 & '狼 AMIR ᴼᴷᴬᴹᴵ#6762
 <p align="center">
   <img src="https://user-images.githubusercontent.com/78264512/194781801-8e19ae57-7807-43ed-ade8-dc71a126c583.png">
 </p>
-<h1 align="center">[Discord] - H04X V1.0</h1>
+<h1 align="center">[Discord] - H04X V1.1</h1>
 <p align="center">
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.10-informational.svg">
