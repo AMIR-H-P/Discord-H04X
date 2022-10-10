@@ -24,8 +24,8 @@ Created By CatsSomeCat#3869 & '狼 AMIR ᴼᴷᴬᴹᴵ#6762
 ![image](https://user-images.githubusercontent.com/78264512/194784439-e56a3d94-2f52-4dc8-a2ea-b380bb5c9f57.png)
 
 ## Disclaimer
-This project is made for good and fun purposes only.
-By using H04X, you agree to be responsible and liable for any consequences
+This project is made for good and fun purposes only. 
+By using H04X, you agree to be responsible for any consequences
 
 ## Features
 - [x] - [ Create Channels ](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Creates Channel With Specified Amount
