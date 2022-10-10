@@ -3,8 +3,9 @@
 H04X - Discord raid tool to nuke servers written in Python
 </p>
 <p align="center">
-Created By CatsSomeCat#3869 & '狼 AMIR ᴼᴷᴬᴹᴵ#6762
-</p>
+Created By <a href="https://github.com/CatsSomeCat">CatsSomeCat#3869 
+  </a> & 
+  <a href="https://github.com/AMIR-H-P">'狼 AMIR ᴼᴷᴬᴹᴵ#6762</a> 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/78264512/194781801-8e19ae57-7807-43ed-ade8-dc71a126c583.png">
 </p>
@@ -19,6 +20,8 @@ Created By CatsSomeCat#3869 & '狼 AMIR ᴼᴷᴬᴹᴵ#6762
     <p align="center"> <a href="https://github.com/CatsSomeCat/Discord-H04X">
     <img src="https://img.shields.io/github/stars/CatsSomeCat/Discord-H04X?style=for-the-badge">
   </a>
+
+
 
 ## Preview
 ![image](https://user-images.githubusercontent.com/78264512/194784439-e56a3d94-2f52-4dc8-a2ea-b380bb5c9f57.png)
